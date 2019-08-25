@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringbootJdbcApplication {
 	
-
+//adding comments
     @Autowired
     private static CustomerRepository customerRepository;
 
